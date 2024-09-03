@@ -1,0 +1,19 @@
+    1  ls
+    2  ls -l
+    3  ls -a
+    4  ls -la
+    5  man ls
+    6  man man
+    7  pwd
+    8  whoami
+    9  echo "hola"
+   10  echo SHOME
+   11  cat README 
+   12  cd repogit/
+   13  ls
+   14  git clone https://github.com/YesiRom/repo_Romero.git
+   15  ls
+   16  cd repo_Romero/
+   17  ls
+   18  history
+   19  history > historial.txt
